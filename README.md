@@ -51,9 +51,13 @@ Copy code
 /Kpop-Quiz-Game-GUI
 
 ├── main.py              # Main file to run the game
+
 ├── ui_design.ui         # PyQt5 UI design file (created with Qt Designer)
+
 ├── questions.py         # File containing questions and answers
+
 ├── assets/              # Folder for images, sounds, or other media
+
 └── requirements.txt     # File containing project dependencies
 
 Contributing
