@@ -49,11 +49,13 @@ Project Structure
 bash
 Copy code
 /Kpop-Quiz-Game-GUI
+
 ├── main.py              # Main file to run the game
 ├── ui_design.ui         # PyQt5 UI design file (created with Qt Designer)
 ├── questions.py         # File containing questions and answers
 ├── assets/              # Folder for images, sounds, or other media
 └── requirements.txt     # File containing project dependencies
+
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request. We welcome improvements, bug fixes, and new features.
 
